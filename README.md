@@ -1,1 +1,1 @@
-Aplicação cronomêtro
+Aplicação cronômetro
